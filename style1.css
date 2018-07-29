@@ -1,0 +1,40 @@
+body {
+    background: #FFFFFF url(img/7856639324bb6f6.jpg) repeat-y;
+    background-size: 100% 100%;
+}
+h1 {
+    color: white;
+    text-align: center;
+    background-color: gray;
+    border: 3px double #6a5acd;
+    margin: 10px 146px;
+}
+h2, h3 {
+    text-align: center;
+    background-color: gray;
+    font-size: 25px;
+    border: 3px double #6a5acd;
+}
+p, ol {
+    font-family: verdana;
+    font-size: 20px;
+}
+a {
+    border: 3px double #6a5acd;
+    background-color: Violet;
+}
+.one {
+    border-bottom: 2px solid MediumSeaGreen;
+    background-color: rgb(240, 240, 240);
+    text-align: center;
+    font-size: 14px;
+    font-style: italic;
+    margin: 40px 150px;
+}
+.thumb img {
+    border: 2px solid #6a5acd;
+    padding: 15px;
+    background: #666;
+    margin-right: 36px;
+    margin-bottom: 10px;
+}
