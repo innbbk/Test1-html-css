@@ -1,20 +1,20 @@
 body {background: url(img/111.jpg) no-repeat right top fixed;}
 h1 {
-    margin: 5px 180px;
+    margin: 5px 140px 5px 10px;
     color: white;
     text-align: center;
     background-color: gray;
     border: 3px double #50ee85;
 }
 h2, h3 {
-    margin: 5px 180px;
+    margin: 5px 140px 5px 10px;
     text-align: center;
     background-color: grey;
     border: 3px double #50ee85;
     font-size: 25px;
 }
 table {
-    margin: 5px 180px;
+    margin: 5px 10px;
     font-family: Arial, sans-serif;
     border-collapse: collapse;
     width: 76%;
@@ -30,19 +30,19 @@ tr:nth-child(even) {
     background-color: #dddddd;
 }
 p.tex1 {
-    padding: 10px 180px;
-    width: 76%;
+    padding: 10px 10px;
+    width: 80%;
     font-size: 25px;
     text-align: justify
  }
  p.tex2 {
-    padding: 10px 180px 150px;
-    width: 76%;
+    padding: 10px 20px 20px;
+    width: 80%;
     font-size: 25px;
     text-align: justify
  }
  p.tex4 {
-    margin: 5px 180px;
+    margin: 5px 10px;
     font-size: 25px;
     text-align: justify
  }
